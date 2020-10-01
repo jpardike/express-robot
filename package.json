@@ -1,0 +1,18 @@
+{
+  "name": "express-robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/jpardike2/express-robot.git"
+  },
+  "author": "Joshua Pardike",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
